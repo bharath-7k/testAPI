@@ -1,8 +1,7 @@
 {
-  "user": {
-    "name": "User 1",
-    "addr": "somewhere",
-    "city": "chennai"
-  },
-  "data": "nnnn"
+  "Book": {
+    "_": {
+      "data": [{ "title": "Title 1" }, { "title": "Title 2" }]
+    }
+  }
 }
