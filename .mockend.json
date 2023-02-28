@@ -1,5 +1,8 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
+  "user": {
+    "name": "User 1",
+    "addr": "somewhere",
+    "city": "chennai"
+  },
+  "data": "nnnn"
 }
