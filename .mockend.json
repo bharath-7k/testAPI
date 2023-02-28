@@ -1,5 +1,5 @@
 {
-  "category": {
-    "string": ["One", "Two"]
+  "tag": {
+    "loremWord": {}
   }
 }
