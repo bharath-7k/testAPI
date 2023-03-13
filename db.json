@@ -1,89 +1,104 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "getPoDetails": {
-    "Date" : "23 January 2023",
-    "Organisation" : "IOCL",
-    "Plant" : "1231 - Madanpur Khadar Plant, Delhi",
-    "QRTagsCount": "10,00,001"
-  },
-  "plantList": [{
-		"id": 1,
-		"plantname": "Madanpur Khadar",
-		"plantid": 1231,
-		"address": {
-			"state": "Tamil Nadu",
-			"pincode": "7000123",
-			"toname": "Madanpur Khadar",
-			"Addressline1": "South Delhi",
-			"Addressline2": "Delhi-110241",
-			"city": "Chennai",
-			"attnname": "Madanpur Khadar",
-			"country": "india"
+	"posts": [{
+			"id": 1,
+			"title": "Post 1"
 		},
-		"email": "email@example.com",
-		"contact": "99292929292"
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
 	},
-	{
-		"id": 2,
-		"plantname": "Delhi Khadar",
-		"plantid": 3451,
-		"address": {
-			"city": " Miyapur",
-			"pincode": "7000123",
-			"toname": "Madanpur Khadar",
-			"Addressline1": "South Delhi",
-			"Addressline2": "Delhi-110241",
-			"state": "Hyderbad",
-			"attnname": "Madanpur Khadar",
-			"country": "india"
-		},
-		"email": "email@example.com",
-		"contact": "99292929292"
+	"getPoDetails": {
+		"Date": "23 January 2023",
+		"Organisation": "IOCL",
+		"Plant": "1231 - Madanpur Khadar Plant, Delhi",
+		"QRTagsCount": "10,00,001"
 	},
-	{
-		"id": 3,
-		"plantname": "Jodkfk Khadar",
-		"plantid": 2531,
-		"address": {
-			"city": "Borivali",
-			"pincode": "7000123",
-			"toname": "Madanpur Khadar",
-			"Addressline1": "South Delhi",
-			"Addressline2": "Delhi-110241",
-			"state": "Mumbai",
-			"attnname": "Madanpur Khadar",
-			"country": "india"
+	"plantList": [{
+			"id": 1,
+			"plantname": "Madanpur Khadar",
+			"plantid": 1231,
+			"address": {
+				"state": "Tamil Nadu",
+				"pincode": "7000123",
+				"toname": "Madanpur Khadar",
+				"Addressline1": "South Delhi",
+				"Addressline2": "Delhi-110241",
+				"city": "Chennai",
+				"attnname": "Madanpur Khadar",
+				"country": "india"
+			},
+			"email": "email@example.com",
+			"contact": "99292929292"
 		},
-		"email": "email@example.com",
-		"contact": "99292929292"
-	},
-	{
-		"id": 4,
-		"plantname": "HHDkdf Khadar",
-		"plantid": 1254,
-		"address": {
-			"city": "Vizag",
-			"pincode": "7000123",
-			"toname": "Madanpur Khadar",
-			"Addressline1": "South Delhi",
-			"Addressline2": "Delhi-110241",
-			"state": "Andhra Pradesh",
-			"attnname": "Madanpur Khadar",
-			"country": "india"
+		{
+			"id": 2,
+			"plantname": "Delhi Khadar",
+			"plantid": 3451,
+			"address": {
+				"city": " Miyapur",
+				"pincode": "7000123",
+				"toname": "Madanpur Khadar",
+				"Addressline1": "South Delhi",
+				"Addressline2": "Delhi-110241",
+				"state": "Hyderbad",
+				"attnname": "Madanpur Khadar",
+				"country": "india"
+			},
+			"email": "email@example.com",
+			"contact": "99292929292"
 		},
-		"email": "email@example.com",
-		"contact": "99292929292"
-	}
-]
+		{
+			"id": 3,
+			"plantname": "Jodkfk Khadar",
+			"plantid": 2531,
+			"address": {
+				"city": "Borivali",
+				"pincode": "7000123",
+				"toname": "Madanpur Khadar",
+				"Addressline1": "South Delhi",
+				"Addressline2": "Delhi-110241",
+				"state": "Mumbai",
+				"attnname": "Madanpur Khadar",
+				"country": "india"
+			},
+			"email": "email@example.com",
+			"contact": "99292929292"
+		},
+		{
+			"id": 4,
+			"plantname": "HHDkdf Khadar",
+			"plantid": 1254,
+			"address": {
+				"city": "Vizag",
+				"pincode": "7000123",
+				"toname": "Madanpur Khadar",
+				"Addressline1": "South Delhi",
+				"Addressline2": "Delhi-110241",
+				"state": "Andhra Pradesh",
+				"attnname": "Madanpur Khadar",
+				"country": "india"
+			},
+			"email": "email@example.com",
+			"contact": "99292929292"
+		}
+	]
 }
