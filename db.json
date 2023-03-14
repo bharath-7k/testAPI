@@ -108,20 +108,20 @@
 		"generatedCount": 1026500,
 		"qcRejected": 2731,
 		"remaingCount": 2731,
-		"status": true,
+		"status": "true",
 		"action": null,
 		"listData": [{
 			"rangeId": 36372,
 			"qrCount": 1025500,
 			"qrRejected": 2731,
 			"requestTime": "12 Jan 2023 12:30",
-			"status": true
+			"status": "true"
 		}, {
 			"rangeId": 38424,
 			"qrCount": 2731,
 			"qrRejected": "--",
 			"requestTime": "13 Jan 2023 12:30",
-			"status": false
+			"status": "false"
 		}]
 	}, {
 		"po": 858110,
@@ -130,20 +130,20 @@
 		"generatedCount": 89889898,
 		"qcRejected": 2344,
 		"remaingCount": 909976,
-		"status": false,
+		"status": "false",
 		"action": "Request QR",
 		"listData": [{
 			"rangeId": 2344,
 			"qrCount": 986956,
 			"qrRejected": 2731,
 			"requestTime": "24 Feb 2023 6:30",
-			"status": true
+			"status": "true"
 		}, {
 			"rangeId": 38424,
 			"qrCount": 2731,
 			"qrRejected": "--",
 			"requestTime": "28 Feb 2023 9:25",
-			"status": false
+			"status": "false"
 		}]
 	}]
 }
