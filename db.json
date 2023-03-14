@@ -100,14 +100,5 @@
 			"email": "email@example.com",
 			"contact": "99292929292"
 		}
-	],
-	"qrRangeQuota": [{
-		"po": 3298110,
-		"plantName": "1231-Madanpur khadar Plant, Delhi",
-		"poCount": 1025500,
-	}, {
-		"po": 858110,
-		"plantName": "1231-Cactus lilly Plant, Delhi",
-		"poCount": 50000000,
-	}]
+	]
 }
